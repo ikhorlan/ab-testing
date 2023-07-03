@@ -17,7 +17,7 @@ Data visualization
 
 Two funnel graphs demonstrate the conversion process from impressions to clicks and then to purchase in two groups. The total interest or the impression or ad views are better in the test groups with a total of 4.8 million views, compared to 4 million views in the control group. On the contrary, the number of clicks in the test group is much lower: 158.7 thousand or 3 percent, compared to 204 thousand or 6% in the control group. And finally, the conversion from clicks to purchase is higher in the test group: 23 thousand or 15 percent, compared to 22 thousand or 10 percent in the control group. In addition, the test group purchased more products with an average purchase of 4.32, compared to an average purchase of 3.46 in the control group. 
 
-The three line graphs by day in the jupyter notebook demonstrate that the difference in earnings and conversion between two groups is the highest between days 20 and 30 and purchases are the highest during the same period. 
+The three line graphs by day in the jupyter notebook demonstrate that the difference in earnings and conversion between two groups is the highest between days 20 and 30 and purchases are the highest during the same period. The third line graph on purchases shows that purchases for two groups are similar (22 thousand and 23 thousand) but it can be used to see if there is time-series in the purchases in the test group.
 
 Summary
 
