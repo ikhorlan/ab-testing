@@ -7,11 +7,11 @@ The data is from Kaggle and it has a control group (40 entries) and a test group
 
 Conversion calculations
 
-Conversions from clicks to earnings is highers in test group and the difference is statistically significant.
-Conversions from impressions to earnings is highers in the test group but the difference is not statistically significant.
-Conversion from IMpressions to cloicks is higher in the contol groul but the difference is not statistically significant. 
+Conversions from clicks to earnings is higher in test group and the difference is statistically significant.
+Conversions from impressions to earnings is higher in the test group but the difference is not statistically significant.
+Conversion from Impressions to clicks is higher in the contol group but the difference is not statistically significant. 
 
-Unit calculations: earnings per purchse and number of purchase per click are both higher in the test group. 
+Unit calculations: earnings per purchase and number of purchase per click are both higher in the test group. 
 
 Data visualization
 
